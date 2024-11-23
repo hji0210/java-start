@@ -13,7 +13,7 @@ public class Switch4 {
             default -> 500;
         };
         System.out.println("발급받은 쿠폰 " + coupon);
-
+///
     }
 
 
