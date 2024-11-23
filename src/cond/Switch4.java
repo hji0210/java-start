@@ -15,6 +15,6 @@ public class Switch4 {
         System.out.println("발급받은 쿠폰 " + coupon);
 
     }
-
+asdasd
 
 }
