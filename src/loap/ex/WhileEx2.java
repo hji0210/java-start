@@ -1,5 +1,6 @@
 package loap.ex;
 
+//짝수 출력 
 public class WhileEx2 {
 
     public static void main(String[] args) {

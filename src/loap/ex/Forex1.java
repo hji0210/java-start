@@ -1,7 +1,7 @@
 package loap.ex;
 
 public class Forex1  {
-    // /자연수 출력
+    //자연수 출력
 
     public static void main(String[] args){
       
