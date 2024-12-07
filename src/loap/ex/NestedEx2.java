@@ -2,6 +2,7 @@ package loap.ex;
 
 public class NestedEx2 {
 
+   // 누적 합계산
     public static void main(String[] args){
        int rows=10;
 
