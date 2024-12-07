@@ -12,7 +12,6 @@ public class Continue1 {
            if( i ==3 ){
                i++;
                continue;
-
              }
              System.out.println(i);
              i++;
